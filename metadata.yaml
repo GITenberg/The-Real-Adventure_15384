@@ -1,0 +1,36 @@
+_repo: The-Real-Adventure_15384
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Crosby, Raymond Moreau
+    alias: Crosby, R. M. (Raymond Moreau)
+    birthdate: 1876
+    deathdate: 1945
+    gutenberg_agent_id: '25177'
+    url: http://www.gutenberg.org/2009/agents/25177
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Webster, Henry Kitchell
+    birthdate: 1875
+    deathdate: 1932
+    gutenberg_agent_id: '3868'
+    url: http://www.gutenberg.org/2009/agents/3868
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+title: The Real Adventure
+url: http://www.gutenberg.org/ebooks/15384
